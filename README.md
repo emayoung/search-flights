@@ -28,5 +28,19 @@ npm run start:prod
 To start the server in development mode run:
 ```npm start```
 
+To Start Docker on your local machine
+```
+$ sudo groupadd docker
+$ sudo usermod -aG docker $USER
+```
+Verify that you can run docker commands without sudo.
+```
+$ docker run hello-world
+```
+
+
+
 Run the tests with:
-```npm test```
+```
+npm test
+```
