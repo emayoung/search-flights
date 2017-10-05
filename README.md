@@ -1,5 +1,5 @@
 # search-flights
-Flight Search App
+HNG-Flight Search App
 ===
 
 > Simple Web app and JSON/HTTP api to search for flights.
